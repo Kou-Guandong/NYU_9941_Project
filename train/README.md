@@ -1,0 +1,1 @@
+This directory is for training models in Google Colab, not for the local service.

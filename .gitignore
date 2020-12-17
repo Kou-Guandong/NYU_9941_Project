@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+test*
+.vscode/
+hidden/
+**/api_feed.txt
