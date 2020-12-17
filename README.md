@@ -1,4 +1,6 @@
-This project is used for the auto-classification of job categories, job types and experience levels for the spiders.
+# 9941 Project (Guandong Kou)
+
+This project is used for the auto-classification of job categories, job types and experience levels for the raw HTML date collected from job board websites.
 
 Currently, it only supports 5 most frequent job categories and 10 most frequence job types. (The rest need more data for the models to learn well.)
 
