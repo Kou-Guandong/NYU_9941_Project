@@ -22,7 +22,11 @@ import pickle
 RAND_SEED = 42
 TRAIN_FIELD = 'job_type_name'
 TRAIN_FRACTION = 0.67
-JOB_TYPES = None
+JOB_TYPES = ['Back-End Software Engineering', 'Business Development',
+             'Business Intelligence & Data Analysis', 'Data Engineering',
+             'DevOps & Infrastructure', 'Front-End Software Engineering',
+             'Full-Stack Software Engineering', 'Operations & General Business',
+             'Product Manager', 'Sales']
 N_RAND_SEARCH = 20
 
 
